@@ -1,6 +1,29 @@
 # byte
 A recipe manager that will help you find inspirations for your next meal and and build a beautiful recipe database.
 
+# Names
+* Leckr
+* Eat
+* Inspire
+* Pal
+* Todo, to eat, to cook
+* "One"
+* Was wie Sprachmühle, zb. Foodmill
+* Millflow
+* Topmeal
+* Gewürze / Spice
+* Prise
+* Kräuter
+* Mama...
+* Chef
+* Bite / Byte
+* Bmyguest
+* Treasure
+* Irgendwas mit workflow
+
+# Logos
+* Eistüte mit Eight Ball
+
 # General features
 * Search
 * Offline
