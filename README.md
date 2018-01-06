@@ -1,6 +1,9 @@
 # byte
 A recipe manager that will help you find inspirations for your next meal and and build a beautiful recipe database.
 
+# Concept
+* Design ideas: https://projects.invisionapp.com/d/main#/projects/boards/5839679
+
 # Names
 * Leckr
 * Eat
