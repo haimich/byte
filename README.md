@@ -20,6 +20,7 @@ A recipe manager that will help you find inspirations for your next meal and and
 * Bmyguest
 * Treasure
 * Irgendwas mit workflow
+* Brot & Butter
 
 # Logos
 * Eistüte mit Eight Ball
